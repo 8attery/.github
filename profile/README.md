@@ -55,7 +55,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 - 일몰입 및 일 강박 모두 3점(보통이다)보다 오른쪽에 많이 분포되어 있어 일몰입과 일 강박이 실제로 만연하다는 사실을 알 수 있었습니다.
 - 특히 일몰입보다 일 강박이 5점에 가깝게 분포되어 있음을 통해 **2030 세대의 일 강박 양상**이 더욱 두드러진다는 사실을 파악했습니다.
 
-![그래프-02](https://user-images.githubusercontent.com/117328806/232039955-847bbcc7-b067-4362-88ec-1774b417e13e.png)
+![그래프-02](https://user-images.githubusercontent.com/117328806/232039955-847bbcc7-b067-4362-88ec-1774b417e13e.png)
 
 ### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다.**
 
@@ -306,7 +306,7 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 <br>
 
-## 💻 Technologies
+## :computer: Technology
 - iOS
     - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
       ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -315,18 +315,18 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
       ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-      ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring_Security&logoColor=white)
+      ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
       ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
       ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
       ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
     - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
       ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-      ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=Amazon_RDS&logoColor=white)
-      ![ElastiCache](https://img.shields.io/badge/AWS_ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
+      ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+      ![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
       ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-      ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=Amazon_EC2&logoColor=white)
+      ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
       ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
       ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 - Co-working Tool
@@ -335,7 +335,7 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
       ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
       ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### **기술 스택 선정 이유**
+### **🐾 기술 스택 선정 이유**
 - 유저 입장에 편한 회고가 가능하도록 하기 위해 접근성을 높이고자 했고, 이를 위해 언제나 간편하게 접근할 수 있는 모바일 앱을 선정하였습니다. 일반적인 PC 웹이나 모바일 웹에서는 구현하기 힘든 푸시 알림 기능, 그리고 스마트폰 내에 기본으로 제공되는 건강 API가 사용 가능하다는 차별성이 있습니다.
 
 
