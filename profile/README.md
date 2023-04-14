@@ -1,6 +1,6 @@
 # ✳️ SeeSaw, 시소 ✳️
 
-<img src="https://file.notion.so/f/s/70591e55-ac8f-48ea-939c-f8dbc7254c81/아이템_소개_이미지-01.png?id=bdce3dbb-75fc-4e6d-aeeb-350b8912f1c3&table=block&spaceId=a15e736d-1e85-48b0-a7fc-c3d9de9b90dd&expirationTimestamp=1681559724572&signature=HmkuARCUngFR91PaT-fE-_pJSKxtuIeqnvc6c9rrJJU&downloadName=아이템+소개+이미지-01.png" width="800"/>
+![아이템 소개 이미지-01](https://user-images.githubusercontent.com/117328806/232042967-d24ef425-8630-4a9a-89d0-bbdb50603c01.png)
 
 ### **일과 삶 사이의 균형 찾기, SeeSaw**
 
@@ -59,7 +59,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ![그래프-02](https://user-images.githubusercontent.com/117328806/232039955-847bbcc7-b067-4362-88ec-1774b417e13e.png)
 
-#### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다. **
+### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다. **
 
 <br>
 
@@ -84,16 +84,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 | TAM | SAM | SOM |
 | --- | --- | --- |
-| 워커홀릭 (일과 생활 사이의 균형을 상실하고 강박적으로 일에 매몰되는 사람) | 워커 마니아가 되고자 하는 사람 (일과 삶의 균형을 찾고자 하는 사람) | 모바일 앱을 통해 프로젝트 회고를 하고자 하는 사람 |
-| - 직장인 48.5%가 스스로를 ‘워커홀릭’이라 답변
--  ‘일 하는 것이 쉬는 것보다 편하고 좋다’는 응답 47.5%
-- 일과 생활의 균형에 만족하는 사람들의 비율 측정 결과 35.2% | - 성인남녀 72%가 연봉보다 워라밸을 더 중시
-- 직장인 일과 삶의 균형 추구 경향 65.8%
-- 아르바이트근로자 일과 삶의 균형 추구 경향 62.5% | - 투두메이트 7.4만
-- 네이버블로그 8.7천
-- 무다 8.3천
-- 노션 1.3천
- |
+| 워커홀릭 (일과 생활 사이의 균형을 상실하고 강박적으로 일에 매몰되는 사람) | 워크 마니아가 되고자 하는 사람 (일과 삶의 균형을 찾고자 하는 사람) | 모바일 앱을 통해 프로젝트 회고를 하고자 하는 사람 |
+| 1. 직장인 48.5%가 스스로를 ‘워커홀릭’이라 답변 <br> 2. ‘일 하는 것이 쉬는 것보다 편하고 좋다’는 응답 47.5% <br> 3. 일과 생활의 균형에 만족하는 사람들의 비율 측정 결과 35.2% | 1. 성인남녀 72%가 연봉보다 워라밸을 더 중시 <br> 2. 직장인 일과 삶의 균형 추구 경향 65.8% <br> 3. 아르바이트근로자 일과 삶의 균형 추구 경향 62.5% | 1. 투두메이트 7.4만 <br> 2. 네이버블로그 8.7천 <br> 3. 무다 8.3천 <br> 4. 노션 1.3천|
 
 <br>
 
@@ -113,9 +105,9 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 그렇다면 워커홀릭은 부정적인 결과만 야기하는 걸까요? 저희는 데스크 리서치를 통해 워커홀릭의 순기능을 파악할 수 있었습니다. 
 
-> **일중독의 유형**을 세 가지로 나누면 다음과 같습니다. 
-> ****1. 강박적 일중독자
-> 2. 완벽주의적 일중독자
+> **일중독의 유형**을 세 가지로 나누면 다음과 같습니다. <br>
+> **1. 강박적 일중독자** <br>
+> 2. 완벽주의적 일중독자 <br>
 > **3. 성취지향적 일중독자**
 > 
 
@@ -134,13 +126,13 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 📍**워라밸, 시간의 균형을 넘어 가치의 균형으로**
 
-**워라밸(Work-Life Balance)**은 **‘일과 삶의 균형’**을 뜻하는 말로, 많은 사람들이 구직, 이직 시 우선적으로 고려하는 요소입니다. 그렇다면 사람들이 흔히 말하는 워라밸은 무엇이고, 어떤 형태의 균형을 지향하고 있을까요? 
+**워라밸(Work-Life Balance)** 은 **‘일과 삶의 균형’** 을 뜻하는 말로, 많은 사람들이 구직, 이직 시 우선적으로 고려하는 요소입니다. 그렇다면 사람들이 흔히 말하는 워라밸은 무엇이고, 어떤 형태의 균형을 지향하고 있을까요? 
 
 워라밸을 지향하는 사람들은 업무 시간과 그 외의 개인 시간을 명확히 구분하자고 말합니다. 주로 많은 업무량으로 인한 잦은 야근, 퇴근 후 이어지는 업무 연락 등으로부터 벗어나고자 합니다. 그런데 일과 삶을 분리하여 ‘시간’이라는 요소를 바탕으로 정량적으로 균형을 맞추는 것이 가능할까요? 
 
-이러한 의문에서 시작된 것이 **워라하(Work-Life Harmony)** 개념입니다. 일과 삶을 완전히 분리하기보다는 **‘일과 삶의 조화’**를 추구하며 직업과 삶이라는 두 가지 영역 모두에서 만족감을 이끌어내는 라이프 스타일입니다. 워라하는 끊임없는 자기 계발과 이를 통한 가치 실현을 꿈꾸는 Z세대로부터 생겨난 신조어라고 합니다. 
+이러한 의문에서 시작된 것이 **워라하(Work-Life Harmony)** 개념입니다. 일과 삶을 완전히 분리하기보다는 **‘일과 삶의 조화’** 를 추구하며 직업과 삶이라는 두 가지 영역 모두에서 만족감을 이끌어내는 라이프 스타일입니다. 워라하는 끊임없는 자기 계발과 이를 통한 가치 실현을 꿈꾸는 Z세대로부터 생겨난 신조어라고 합니다. 
 
-8attery 팀은 ‘시간의 균형’만을 강조했던 기존의 워라밸 개념에서 벗어나 **‘시간의 균형’**과 더불어 **‘가치의 균형’**을 지향하고자 합니다. 
+8attery 팀은 ‘시간의 균형’만을 강조했던 기존의 워라밸 개념에서 벗어나 **‘시간의 균형’** 과 더불어 **‘가치의 균형’** 을 지향하고자 합니다. 
 
 - 에너지 잔량 확인 기능: 프로젝트와 삶의 정량적 균형을 맞출 수 있게 함 (시간의 균형)
 - 로드맵 설정 기능 · 프로젝트 회고 기능: 프로젝트를 통한 나의 성장을 기록하고 이로부터 삶에서 갖는 가치를 발견할 수 있게 함 (가치의 균형)
@@ -186,28 +178,16 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 ’프로젝트를 통한 나의 성장’을 기록하고, 이를 삶의 의미와 연결시키고자 하는 유저를 
 첫 타겟 고객으로 설정합니다. 
 
-프로젝트를 통한 나의 성장을 기록하고, 이를 삶의 의미로 연결시키고자 하는 유저?
-
-> 타겟층 확장 계획(일요일까지 작성)
-> 
-
-대학생을 잡고 → 직장인으로 확장하는 것은 어떨까 싶어요! 
-대학생들이 결국 직장인이 되는 것이니깐, 유저의 시간의 흐름에 따라 우리도 함께 확장할 수 있을 것 같습니다.
+<br>
 
 ## 📌 핵심기능
 
 ### 핵심 기능 overview
 
-| 🛣️로드맵 설정 기능 | ’청년세대들은 자신의 발전에 일의 의미를 두고 있으나, 그것이 자신의 꿈, 사명과는 아직 거리가 있다고 볼 수 있다.’
-
-: 유저가 삶에 대한 목표를 정의하고, 이에 맞춰 자신만의 로드맵을 설정합니다. 현재 자신이 로드맵 중 어디까지 왔는지 확인할 수 있습니다. |
+| 🛣️ 로드맵 설정 기능 | ’청년세대들은 자신의 발전에 일의 의미를 두고 있으나, 그것이 자신의 꿈, 사명과는 아직 거리가 있다고 볼 수 있다.’ <br> : 유저가 삶에 대한 목표를 정의하고, 이에 맞춰 자신만의 로드맵을 설정합니다. 현재 자신이 로드맵 중 어디까지 왔는지 확인할 수 있습니다. |
 | --- | --- |
-| ⏪프로젝트 회고 기능 | ‘프로젝트가 나의 삶과 연결될 수 있도록’
-
-: 프로젝트 시작 전 - 진행 중 - 마무리 단계에서 프로젝트를 ‘삶’과 연결지어 회고할 수 있도록 합니다. 또한, 프로젝트를 진행하며 느끼는 다양한 생각들을 쉽게 남겨둘 수 있습니다. |
-| ✅ 에너지 잔량 확인 기능 | ‘프로젝트와 삶의 에너지 균형을 맞추다’
-
-: 수면시간, 칼로리와 같은 객관적인 데이터와 자신이 설정한 루틴 2가지의 실행 여부를 바탕으로 ‘나만의 배터리’를 측정합니다. |
+| ⏪ 프로젝트 회고 기능 | ‘프로젝트가 나의 삶과 연결될 수 있도록’ <br> : 프로젝트 시작 전 - 진행 중 - 마무리 단계에서 프로젝트를 ‘삶’과 연결지어 회고할 수 있도록 합니다. 또한, 프로젝트를 진행하며 느끼는 다양한 생각들을 쉽게 남겨둘 수 있습니다. |
+| ✅ 에너지 잔량 확인 기능 | ‘프로젝트와 삶의 에너지 균형을 맞추다’ <br> : 수면시간, 칼로리와 같은 객관적인 데이터와 자신이 설정한 루틴 2가지의 실행 여부를 바탕으로 ‘나만의 배터리’를 측정합니다. |
 
 <br>
 
@@ -309,28 +289,39 @@ Option4. 앱 스킨 디자인 템플릿 제공  |
 
 <br>
 
-
-## 💻 Technologies
-
+## 💻 Technologies
 - iOS
     - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
       ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
     - `SwiftUI` `Alamofire` `KeychainSwift` `HealthKit`
 - Server
+    - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      <img src=“https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white”>
+      <img src=“https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white”>
+      ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-      <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-      <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-      ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+      ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+      ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+    - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+      <img src=“https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white”>
+      <img src=“https://img.shields.io/badge/AWS ElastiCache-527FFF?style=for-the-badge&logo=Amazon”>
+      ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+    - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+      <img src=“https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white”>
       ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
       ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- Co-working Tool
+    - ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    - ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+    - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ### **기술 스택 선정 이유**
+- 유저 입장에 편한 회고가 가능하도록 하기 위해 접근성을 높이고자 했고, 이를 위해 언제나 간편하게 접근할 수 있는 모바일 앱을 선정하였습니다. 일반적인 PC 웹이나 모바일 웹에서는 구현하기 힘든 푸시 알림 기능, 그리고 스마트폰 내에 기본으로 제공되는 건강 API가 사용 가능하다는 차별성이 있습니다.
 
-- ~~앱이어야 하는 이유를 적으면 좋을듯~~
 
 ### **📘 iOS 선정 이유**
 
