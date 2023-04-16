@@ -55,7 +55,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 - 일몰입 및 일 강박 모두 3점(보통이다)보다 오른쪽에 많이 분포되어 있어 일몰입과 일 강박이 실제로 만연하다는 사실을 알 수 있었습니다.
 - 특히 일몰입보다 일 강박이 5점에 가깝게 분포되어 있음을 통해 **2030 세대의 일 강박 양상**이 더욱 두드러진다는 사실을 파악했습니다.
 
-![그래프-02](https://user-images.githubusercontent.com/117328806/232039955-847bbcc7-b067-4362-88ec-1774b417e13e.png)
+![그래프-02](https://user-images.githubusercontent.com/39361807/232277085-f2aade8d-c6f9-448a-8a1b-3d99e6be6f45.png)
 
 ### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다.**
 
@@ -93,7 +93,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ```SOM``` 프로젝트에 참여하는 대학생 중 37.2%가 프로젝트에 강박감을 느끼고 있음 : 393,992명
 
-여기에 표 들어가야함
+![그래프-03](https://user-images.githubusercontent.com/39361807/232277320-11fa2ac4-bd40-43ba-98af-54450a3eebfe.png)
+
 
 일 강박 문항에 대한 20대 재학생, 휴학생, 취준생(졸업유예생) 등 대학생 129명의 답변을 종합해본 결과, ‘보통이다’인 3점을 기준으로 오른쪽에 분포해 있다는 것을 알 수 있었습니다. 이는 프로젝트 진행 시 일 강박을 느끼냐는 답변에 ‘그렇다’, ‘매우 그렇다’를 답한 대학생이 많다는 의미로, 3.73으로 계산된 평균 역시 20대 대학생 일 강박 양상을 나타내고 있습니다. 저희는 20대 대학생 응답자 중 평균인 3.73보다 높은 점수를 가진 응답자의 비율을 계산하여 프로젝트에 참여하는 대학생 중 37.2% 정도가 프로젝트에 강박감을 느끼고 있다고 파악했습니다. 
 
@@ -211,7 +212,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 > 타겟층 확장 계획
 > 
 
-| 분류 | 1차 타겟 유저 | 2차 타 유저 |
+| 분류 | 1차 타겟 유저 | 2차 타겟 유저 |
 | --- | --- | --- |
 | 타겟설정 | 주체적으로 프로젝트를 진행하는 대학생 및 취준생 | 주체적으로 프로젝트를 진행하는 프리랜서 직장인 |
 | 관련 기능 | 프로젝트 회고 작성, 장기적인 로드맵 설정 | 직장인을 위한 회고 가이드라인 제공, 업무 협업툴과 연동|
@@ -286,7 +287,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 <br>
 
 ### 메뉴 구조도
-- 사진들어가야함
+![메뉴 구조도](https://user-images.githubusercontent.com/39361807/232277539-a1e35146-a41a-4768-8873-1e644269f444.png)
+
 <br>
 
 ## 🧩 비즈니스 모델 설계
@@ -327,7 +329,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ## 🎨 디자인 무드보드
 
-<img src="https://file.notion.so/f/s/d124e86a-5838-4da7-ad7d-9acc0e4f3949/무드보드.png?id=e5a6ab55-8f55-48b0-b633-84cc0f3de7ae&table=block&spaceId=a15e736d-1e85-48b0-a7fc-c3d9de9b90dd&expirationTimestamp=1681559847265&signature=q0daQ1MpDfh6axmKolveAiIIBDV3hm2E-ryikhpHhSY&downloadName=무드보드.png">
+![무드보드](https://user-images.githubusercontent.com/39361807/232277610-e16ad9bf-985c-4674-8c6a-1e42257fb1de.png)
+
 
 <br>
 <br>
@@ -347,14 +350,16 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
       ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
     - `SwiftUI` `Alamofire` `KeychainSwift` `HealthKit`
 - Server
-    - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+      ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
       ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
       ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
       ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
       ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
       ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+    - `Spring Data JPA`
+      `QueryDSL`
     - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
       ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
       ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
