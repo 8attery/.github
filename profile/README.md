@@ -340,7 +340,9 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ## 🔍 System Architecture
 
-<img src="https://user-images.githubusercontent.com/117328806/232034439-1cb31ab5-ee18-4dfb-b15b-a49c2792c615.png">
+![image](https://github.com/8attery/.github/assets/39361807/e0c97a7c-3a2b-400a-a72a-051752be3ae6)
+
+
 
 <br>
 
@@ -407,7 +409,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 <br>
 
 ## ER Diagram
-<img width="452" alt="image" src="https://github.com/8attery/.github/assets/39361807/b8dfae96-2192-4119-9d8f-1e82a7ab2b80">
+<img width="800" alt="image" src="https://github.com/8attery/.github/assets/39361807/b8dfae96-2192-4119-9d8f-1e82a7ab2b80">
 
 
 
