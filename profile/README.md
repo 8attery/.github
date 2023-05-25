@@ -363,7 +363,9 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
     - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
       ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
       ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
-      ![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
+      ![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-4053D6?style=for-the-badge&logo=Amazon)
+      ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white)
+      ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white)
       ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
       ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
@@ -381,22 +383,31 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ### **📘 iOS 선정 이유**
 
-- SwiftUI에서는 최소한의 코드만으로 Swift의 성능을 사용하여 모든 Apple 플랫폼 전반에서 앱을 빌드할 수 있습니다. 어떤 Apple 기기에서나 단 하나의 도구 및 API 세트를 사용할 수 있습니다.
-- iOS와 HealthKit을 통합하여 user의 권한이 허가되면, 자세한 건강 및 피트니스 솔루션 data를 사용할 수 있습니다.
-- Alamofire를 사용하는 이유는 코드의 간소화 및 가독성 측면에서 도움을 주고, 여러 기능들을 직접 구축하지 않아도 쉽게 사용할 수 있기 때문입니다. URLSession을 사용하면 url 생성, 코드 검증, 에러 처리, query 매핑 등을 직접 처리해야합니다.
+- Xcode는 iOS 앱 개발에 필요한 모든 도구와 기능을 통합한 IDE로, Apple 로그인을 위한 AuthenticationServices, HealthKit 등 다양한 프레임워크 이용이 간편합니다.
+- SwiftUI는 native platform의 기능과 퍼포먼스를 최대한 활용할 수 있고, 선언적인 문법으로 코드 가독성이 우수합니다. @State, @Binding, @ObservableObject 등 상태 관리를 위한 state property를 사용해 값의 변경, 데이터 전달 및 상호작용을 단순화할 수 있습니다.
+- Alamofire는 URLSession을 활용한 라이브러리로, Swift에서 네트워킹 작업을 수행하기 위한 간단하고 직관적인 API를 제공하여 직접 구현하는 것보다 빠르고 편리하게 작업할 수 있습니다.
+- Keychain은 iOS 앱의 Sandbox 환경 내에서 동작하는 데이터 보안 메커니즘으로, 외부에서 Keychain에 직접 액세스할 수 없습니다. 앱의 중요한 데이터, 인증 토큰 등을 Keychain에 저장함으로써 앱의 보안성을 향상시킬 수 있으며, KeychainSwfit library를 이용해 간편하게 accessToken과 refreshToken을 Keychain에 저장하고, 안전하게 이용할 수 있습니다.
 
 ### **📗 Server 선정 이유**
 
-- Springboot는 Spring framework를 간편하게 사용할 수 있게 해주며 RDBMS와의 편리한 연동, 라이브러리의 버전 관리 자동화 등으로 API 서버 개발에 특화되어 있습니다.
-- Spring Security로 유저의 로그인 정보를 더욱 안전하게 관리하기 위해 선정했습니다.
-- Spring Data JPA를 사용하여 DB에 간편하게 접근하고, 필요 시 N+1 문제를 해결하기 위해 QueryDSL을 통한 동적 쿼리를 사용할 예정입니다.
-- JWT를 사용해 유저의 로그인을 위한 토큰을 구현할 예정입니다.
-- MySQL을 사용해서 DB를 구축하고, 이를 RDS로 배포할 예정입니다.
-- Redis를 사용하여 Refresh Token을 캐싱할 인메모리 DB를 구축하고, 이를 ElasticCache를 통해 배포할 예정입니다.
-- EC2를 통해 서버를 배포하고, Github Actions + Docker + Docker Compose를 통해 무중단 CI/CD 플로우를 구축할 예정입니다.
-- Swagger를 통해 Client에서 Server의 API를 확인할 수 있게 구현할 예정입니다.
+- IntelliJ는 Spring Boot 개발을 위해 필요한 모듈과 기능을 간편하게 사용할 수 있는 IDE입니다.
+- Spring Boot는 Spring framework를 간편하게 사용할 수 있게 해주며 RDBMS와의 편리한 연동, 라이브러리의 버전 관리 자동화 등으로 Java 기반 애플리케이션 서버 개발에 특화되어 있습니다.
+- Spring Security를 사용하여 JWT 기반 사용자 인증 관련 필터를 구축하였습니다.
+- Spring Data JPA를 사용하여 연동한 RDBMS에 간편하게 접근하고, 필요 시 JPQL과 QueryDSL fetch join을 사용하여 N + 1 문제를 해결하였습니다.
+- Slf4j와 logback-spring.xml 파일 설정을 통해 배포된 서버에서 로그를 파일에 저장하도록 구현했습니다.
+- OpenId Connect는 OAuth 2.0에서 확장된 인증 프로토콜이며, 소셜 로그인 시 API 호출 횟수를 약 절반 가까이 줄일 수 있는 장점을 가지고 있습니다. 따라서 OpenId Connect를 사용하여 애플 로그인 및 카카오 로그인을 구현하였습니다.
+- 일반적인 데이터를 안전하게 저장하기 위해 대표적인 RDBMS인 MySQL을 사용했고, 이를 AWS RDS를 통해 배포하였습니다.
+- 매일 자정마다 DB에 insert, update 쿼리를 수행하기 위해 pymysql을 이용해 작성한 쿼리 파일을 Lambda에 업로드하고, EventBridge의 규칙에 따라 Lambda를 실행하도록 구현하였습니다.
+- 로그인 과정에서 발급되는 JWT인 Access Token과 Refresh Token 중 Refresh Token을 캐싱하여 사용자가 빠르게 Access Token을 재발급 받을 수 있게 하기 위해 Redis를 사용하였습니다. JWT로 구현된 Access Token은 탈취 당하더라도 유저 정보는 안전하지만, 이를 그대로 활용하여 로그인할 수 있기 때문에 만료 시간을 짧게 설정하고 Refresh Token을 이용하여 사용자의 불편을 줄였습니다. Redis에 Refresh Token과 Request IP를 저장하여 Refresh Token 탈취에 대비했으며, 배포에는 AWS ElastiCache를 사용하였습니다.
+- JAR 파일을 배포하기 위해 환경설정이 간편한 AWS EC2를 사용하였습니다.
+- 무료로 사용할 수 있으며 비밀 값을 Repository Secret에 넣어 안전하게 관리할 수 있는 Github Actions를 사용하여 CI/CD를 구현했습니다.
+- CI/CD 구현 및 컨테이너화를 위해 Docker를 사용하였습니다. Docker Compose를 통해 빌드된 JAR 파일 및 nginx를 EC2 상에 컨테이너를 생성해 배포하였습니다.
+- 서버의 자원을 더욱 효율적으로 사용하기 위해 nginx를 사용하였습니다.
 
 <br>
+
+## ER Diagram
+<img width="452" alt="image" src="https://github.com/8attery/.github/assets/39361807/b8dfae96-2192-4119-9d8f-1e82a7ab2b80">
 
 
 
